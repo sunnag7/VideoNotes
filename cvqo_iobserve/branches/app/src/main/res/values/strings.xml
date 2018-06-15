@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">VideoText</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_camera">CameraActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="description">Media Controls</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
